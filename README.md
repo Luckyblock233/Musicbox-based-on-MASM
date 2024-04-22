@@ -2,7 +2,7 @@
 
 Musicbox based on MASM
 
-Includes 3 songs:
+Includes 3 music clips:
 - Senbon Zakura
 - Merry Christmas Mr. Lawrence
 - Bad Apple!
